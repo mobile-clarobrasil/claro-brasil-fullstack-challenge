@@ -7,7 +7,7 @@ O objetivo deste desafio é avaliar as competências técnicas para uma vaga ful
 * Designer e criação das APIs REST;
 * Conhecimento nas libs e frameworks utilizados;
 * API executando em alguma plataforma de cloud (Heroku é grátis) para apresentação;
-* Demonstração do aplicativo;
+* Demonstração do aplicativo android;
 
 
 ## Instruções
@@ -53,6 +53,11 @@ Exemplos de uso:
 * Alterar o nome de um dispositivo através do ID
 * Remover um dispositivo através do ID
 * Trocar dispositivo.
+
+### Requisitos tecnicos:
+
+* O Backend precisa ser desenvolvido utilizando Nodejs com ou sem Typescript. 
+* O Frontend Android precisa ser desenvolvido utilizando código nativo com Kotlin ou Java.
 
 ### Requisitos desejáveis:
 

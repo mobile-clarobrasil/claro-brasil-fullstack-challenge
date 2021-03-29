@@ -1,4 +1,4 @@
-# claro-brasil-fullstack-challenge
+# claro-brasil-mobile-fullstack-challenge
 
 O objetivo deste desafio é avaliar as competências técnicas para uma vaga fullstack, pontos que serão avaliados:
 
